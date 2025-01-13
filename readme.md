@@ -1,8 +1,8 @@
-Algoritmo de Controle de Compras com Cartão - Java
+Algoritmo de controle de compras com cartão - Java
 
 Descrição
 
-Desafio proposto pelo fim do curso da Alura com objetivo de criar um simulador de sistema de controle de compras com limite de cartão. O usuário pode definir um limite para o cartão e adicionar compras até que o limite seja atingido. O algoritmo permite registrar compras e verificar se o saldo do cartão é suficiente, exibindo uma lista de produtos comprados quando o limite é atingido ou o usuário decide encerrar as compras.
+Desafio proposto diante ao fim do curso da Alura com objetivo de criar um algoritmo de sistema de controle de compras com limite de cartão. O usuário pode definir um limite para o cartão e adicionar compras até que o limite seja atingido. O algoritmo permite registrar compras e verificar se o saldo do cartão é suficiente, exibindo uma lista de produtos comprados quando o limite é atingido ou o usuário decide encerrar as compras.
 
 funcionalidades
 
